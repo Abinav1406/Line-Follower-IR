@@ -16,6 +16,9 @@ The system is built around the Arduino Uno microcontroller and integrates a dual
 - Power Supply: 9V Battery pack
 - Interfacing: Jumper wires and connectors
 
+## Circuit Diagram
+
+
 ## System Architecture
 
 The robot operates as a feedback-driven embedded system where sensing, processing, and actuation are tightly integrated.
